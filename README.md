@@ -1,14 +1,12 @@
 # 🌟 Bem-vindo ao meu GitHub! 🌟
 
-![GitHub Banner](https://via.placeholder.com/1200x300.png?text=Bem-vindo+ao+meu+GitHub)
-
 ## Sobre Mim
 
 👋 Olá! Sou apaixonado por tecnologia e programação, em formação como Desenvolvedor Java Full Stack Jr. Possuo habilidades em JavaScript, React, HTML, CSS, MySQL e TypeScript. Durante meus estudos, desenvolvo projetos acadêmicos que me permitem aplicar conhecimentos teóricos em situações práticas.
 
 ## 🚀 Habilidades
 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/> <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
 
 ## 📁 Projetos
 
