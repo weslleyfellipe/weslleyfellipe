@@ -14,8 +14,10 @@
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-- **[Projeto 1](#)**: [Este projeto consiste em um backend para uma loja de jogos online. A aplicação oferece funcionalidades básicas para gerenciamento de produtos, pedidos e usuários..](https://github.com/weslleyfellipe/projeto-lojagames)
-- **[Projeto 2](#)**: [O BackBlog é um projeto de blog pessoal que se concentra exclusivamente no desenvolvimento do back-end da aplicação. Este projeto visa fornecer uma base sólida e eficiente para a gestão de conteúdo de um blog, com funcionalidades essenciais e uma arquitetura robusta.]https://github.com/weslleyfellipe/Blog-Pessoal
+- **[Projeto 1](#)**: [Este projeto consiste em um backend para uma loja de jogos online. A aplicação oferece funcionalidades básicas para gerenciamento de produtos, pedidos e usuários..] 
+  (https://github.com/weslleyfellipe/projeto-lojagames)
+- **[Projeto 2](#)**: [O BackBlog é um projeto de blog pessoal que se concentra exclusivamente no desenvolvimento do back-end da aplicação. Este projeto visa fornecer uma base sólida e eficiente para a gestão de conteúdo de um blog, com funcionalidades essenciais e uma arquitetura robusta.]
+- https://github.com/weslleyfellipe/Blog-Pessoal
 - **
 
 ## 📫 Contato
